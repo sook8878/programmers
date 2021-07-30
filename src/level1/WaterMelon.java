@@ -1,6 +1,6 @@
-package programmers;
+package level1;
 
-public class Test2 {
+public class WaterMelon {
 
 	public static void main(String[] args) {
 		

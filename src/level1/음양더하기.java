@@ -1,4 +1,4 @@
-package programmers;
+package level1;
 
 public class 음양더하기 {
 	
