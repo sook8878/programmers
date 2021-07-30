@@ -27,6 +27,7 @@ public class 예산 {
 		
 		int budget = 10;
 		
+		 
         int answer = 0;
 
         int count = 0;
