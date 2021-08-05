@@ -33,6 +33,7 @@ public class X만큼간격이있는N개의숫자 {
         for (int i = 0; i < n; i++) {
 			
 
+        	
         	answer[i] = lx;
         	
         	lx = lx + resultx;
